@@ -1,1 +1,1 @@
-# STUDIUM
+Acesse STUDIUM em: https://studium-sand.vercel.app/
